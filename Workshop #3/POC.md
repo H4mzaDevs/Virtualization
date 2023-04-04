@@ -1,7 +1,7 @@
 # PROOF OF CONCEPT
 > Hamza Ghariani 4 NIDS 1
 
-## 1. vmware version on port 443 must be **ESXi 6.7.0**
+## 1. vmware version on port 443 must be **ESXi 6.7.0-14320388s**
 
 
 ```bash
